@@ -1,1 +1,1 @@
-## Simple Blog to practice Next framework and TailwindCSS
+## Simple Blog to practice Next framework and TailwindCSS following the video of [Dave Gray's youtube channel](https://youtu.be/843nec-IvW0?si=NeuVF4CPrlWumfMY)

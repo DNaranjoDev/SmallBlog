@@ -1,4 +1,6 @@
 import Posts from "./components/Posts"
+// the revalidate value always in seconds, so 1 day (the normal value in production) is 86400 seconds
+export const revalidate = 5
 
 export default function Home() {
   return (
